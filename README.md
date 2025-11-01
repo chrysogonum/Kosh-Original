@@ -1,15 +1,11 @@
-# 🐱 The Adventures of Kosh - Original Version
-
-> **Note:** This is the original version (v1.0) of the game, preserved for posterity.
-> For the latest kawaii-styled version, visit: **[Kosh Kawaii Edition](https://chrysogonum.github.io/Kosh/)**
+# 🐱 The Adventures of Kosh
 
 A Pokemon-style quest game featuring a little black cat named Kosh!
 
 ![Game Screenshot](https://img.shields.io/badge/made%20with-Kaboom.js-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Version](https://img.shields.io/badge/version-1.0--original-orange)
 
-## 🎮 [Play the Original Version!](https://chrysogonum.github.io/Kosh-Original/)
+## 🎮 [Play the Game!](https://chrysogonum.github.io/Kosh/)
 
 ## 📖 Story
 
